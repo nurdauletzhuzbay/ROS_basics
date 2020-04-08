@@ -1,2 +1,2 @@
-#Publisher - moves the turtle
-#Subscriber - returns the current position
+Publisher - moves the turtle
+Subscriber - returns the current position
